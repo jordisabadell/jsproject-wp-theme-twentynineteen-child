@@ -1,0 +1,27 @@
+{
+  "name": "twentynineteen-child",
+  "version": "1.0.0",
+  "description": "**A plugin of JS Project** :rocket:  \r https://www.jordisabadell.com",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jordisabadell/jsproject-wptheme-twentynineteen-child.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jordisabadell/jsproject-wptheme-twentynineteen-child/issues"
+  },
+  "homepage": "https://github.com/jordisabadell/jsproject-wptheme-twentynineteen-child#readme",
+  "devDependencies": {
+    "autoprefixer": "^9.7.5",
+    "cssnano": "^4.1.10",
+    "gulp": "github:gulpjs/gulp",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5"
+  }
+}
